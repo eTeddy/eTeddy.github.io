@@ -7,6 +7,8 @@ body {
   padding: 0;
   text-align: center;
 }
+
+/* Header */ 
 header {
   background: #3d1c00;
   color: #dad2ba;
@@ -14,6 +16,8 @@ header {
   padding: 5px 0 5px 0;  
   width: 100%;
 }
+
+/* Main */
 main {
   background: #f0d8a8;
   color: #445942;  
@@ -22,17 +26,13 @@ main {
   width: 100%;
   height: 100%;
 }
-.img {
+img {
   width: 250px;
   margin: 10px ;
   box-shadow: 5px 5px 8px #3d1c00;
 }
-.img2 {
-  width: 250px;
-  margin: 10px ;
-  filter: drop-shadow(0 0 0.75rem #3d1c00);
-}
 
+/* Footer */
 footer {  
   background: #3d1c00;
   color: #dad2ba;
