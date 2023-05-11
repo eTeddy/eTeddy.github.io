@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Set the container height to the viewport height */
+}
+header {
+  background: #3d1c00;
+  color: #dad2ba;
+
+  width: 100%;
+  margin: 0;
+  padding: 5px;
+}
+main {
+  background: #f0d8a8;
+  color: #445942;  
+  width: 100%;
+  height: 100%;
+}
+footer {  
+  background: #3d1c00;
+  color: #dad2ba;
+  margin: 0;
+  padding: 5px;
+  width: 100%;
+}
